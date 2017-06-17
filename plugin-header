@@ -1,0 +1,22 @@
+<?php
+/**
+ * @package Plugin Name
+ */
+/*
+/*
+  Plugin Name: 
+  Plugin URI: 
+  Description: 
+  Version:
+  Author: Jamie Fergus
+  Author URI:
+  License: GPLv2+
+  Text Domain: 
+*/
+
+//Exit if accessed directly
+
+  if (! defined ('ABSPATH')){
+    exit;
+  }
+
